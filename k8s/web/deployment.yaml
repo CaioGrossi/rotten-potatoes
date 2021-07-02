@@ -28,7 +28,9 @@ spec:
             - name: MONGODB_PASSWORD
               value: mongopwd
               
-
+              
+              
+---
 
 apiVersion: v1
 kind: Service
